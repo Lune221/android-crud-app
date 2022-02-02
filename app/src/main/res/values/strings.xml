@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CRUD APP</string>
+    <string name="hello">Hi I\'m from strings.xml file</string>
+    <string name="firstname">Prénom</string>
+    <string name="cancel">Annuler</string>
+    <string name="save">Enregistrer</string>
+    <string name="lastname">Nom</string>
+    <string name="email">Adresse mail</string>
+</resources>
